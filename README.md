@@ -1,4 +1,4 @@
-Simple class that reads sentences line-by-line from input file, then outputs the an ordered, sentence frequency list in an output file.
+Simple class that reads sentences line-by-line from input file, then outputs an ordered, sentence frequency list in an output file.
 
 1. Clone/Download
 
