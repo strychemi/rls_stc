@@ -25,6 +25,6 @@ class Sentence
 
 end
 
-a = Sentence.new("input")
-a.count_sentences
-a.output_file
+# a = Sentence.new("input")
+# a.count_sentences
+# a.output_file
